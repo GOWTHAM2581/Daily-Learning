@@ -1,5 +1,5 @@
-# Project Name
+# Notes
 
-## Documentation
+## Daily Learning
 
 - [Docker Notes](docker.md)
