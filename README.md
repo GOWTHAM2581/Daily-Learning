@@ -2,5 +2,5 @@
 
 ## Daily Learning
 
-- [Docker Notes](Docker/docker_part1.md)
+- [Docker Notes](Docker/docker.md)
 - [LangChain Notes](langchain/langchain-notes-part1.md)
