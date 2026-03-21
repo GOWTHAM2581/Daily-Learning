@@ -19,3 +19,10 @@ String[] words = s.split(" ");
 String[] words = sentence.split("\\s+");  //remove one or more spaces
 
 
+
+
+//convert Array List into Array
+
+List<Integer> list = new ArrayList<>();
+
+int[] arr = list.stream().mapToInt(i -> i).toArray();
